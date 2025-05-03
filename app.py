@@ -1,4 +1,3 @@
-import time
 def say_hello():
     print("Hello from DevSecOPs!!!")
 
@@ -6,4 +5,4 @@ def say_hello():
 if __name__ == "__main__":
     say_hello()
     while true:
-        time.sleep(1)
+        pass
